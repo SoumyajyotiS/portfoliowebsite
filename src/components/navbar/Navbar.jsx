@@ -19,10 +19,10 @@ const Navbar = () => {
         </div>
         <div className="social">
           <a href="https://github.com/Broken-Kaddu" target="_blank">
-            <img src="./public/github.png" alt="" />
+            <img src="/github.png" alt="" />
           </a>
           <a href="https://www.linkedin.com/in/soumyajyoti-sarkar-823496300/" target="_blank">
-            <img src="./public/linkedin.png" alt="" />
+            <img src="/linkedin.png" alt="" />
           </a>
         </div>
       </div>

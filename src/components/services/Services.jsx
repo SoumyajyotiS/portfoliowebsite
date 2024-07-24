@@ -55,7 +55,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <h2>Google UX Design</h2>
-          <img src="public/cert1.png" alt="" />
+          <img src="/cert1.png" alt="" />
         </motion.div>
         <motion.div
           className="box"
