@@ -65,8 +65,8 @@ const Contact = () => {
           <span>Mysuru, Karnataka, India</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
-          <h2>Phone</h2>
-          <span>+91-85850-48280</span>
+          <h2>Telegram</h2>
+          <span>@gopenrox</span>
         </motion.div>
       </motion.div>
       <div className="formContainer">
